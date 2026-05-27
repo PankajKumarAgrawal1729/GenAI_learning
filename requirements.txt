@@ -1,3 +1,5 @@
 langchain
 langchain-google-genai
 dotenv
+langchain-anthropic
+langchain-openai
